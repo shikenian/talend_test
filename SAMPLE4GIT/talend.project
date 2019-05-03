@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_0KgREW2ZEemWULvbDmRutw" label="Sample4Git" description="Project For Git testing" language="java" technicalLabel="SAMPLE4GIT" creationDate="2019-05-03T19:43:34.000+0800" author="_0KgREm2ZEemWULvbDmRutw" productVersion="Talend Data Fabric-7.1.1.20181026_1147" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/shikenian/talend_test.git&quot;,&quot;login&quot;:&quot;shikenian@126.com&quot;,&quot;passwd&quot;:&quot;LOOd1rzQN97axrpqiTZqRQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_0OW2UG2ZEemWULvbDmRutw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_0KgREm2ZEemWULvbDmRutw" login="talend@company.com" firstName="security" lastName="security" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
